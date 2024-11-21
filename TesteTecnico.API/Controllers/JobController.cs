@@ -27,19 +27,19 @@ namespace TesteTecnico.API.Controllers
         [HttpPost]
         public IActionResult Post(CreateJobInputModel model)
         {
-            return Ok();
+            return CreatedAtAction(nameof(GetById), new { id = 1 }, model);
         }
         
         // PUT api/jobs/{id}
         [HttpPut("{id}")]
-        public IActionResult Put(int id, UpdateJobInputModel model)
+        public IActionResult Put(Guid id, UpdateJobInputModel model)
         {
             return NoContent();
         }
         
         // DELETE api/jobs/{id}
         [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
+        public IActionResult Delete(Guid id)
         {
             return NoContent();
         }
