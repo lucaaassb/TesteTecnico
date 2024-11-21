@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using TesteTecnico.Application.Models;
 using TesteTecnico.Core.Entities;
 
 namespace TesteTecnico.API.Controllers
@@ -24,23 +25,23 @@ namespace TesteTecnico.API.Controllers
         
         // POST api/jobs
         [HttpPost]
-        public IActionResult Post()
+        public IActionResult Post(CreateJobInputModel model)
         {
             return Ok();
         }
         
         // PUT api/jobs/{id}
-        [HttpPut]
-        public IActionResult Put()
+        [HttpPut("{id}")]
+        public IActionResult Put(int id, UpdateJobInputModel model)
         {
-            return Ok();
+            return NoContent();
         }
         
         // DELETE api/jobs/{id}
-        [HttpDelete]
-        public IActionResult Delete()
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
         {
-            return Ok();
+            return NoContent();
         }
     }
 }
