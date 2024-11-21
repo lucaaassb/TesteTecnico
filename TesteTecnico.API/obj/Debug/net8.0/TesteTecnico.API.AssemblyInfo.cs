@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TesteTecnico.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed024a159866ce111d116501796f710407445b87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb85e544d04b40cd15b1cfc8438803810c5e2270")]
 [assembly: System.Reflection.AssemblyProductAttribute("TesteTecnico.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TesteTecnico.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
