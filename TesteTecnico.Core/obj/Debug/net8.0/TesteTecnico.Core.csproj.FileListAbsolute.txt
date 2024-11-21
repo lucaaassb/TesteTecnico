@@ -1,0 +1,12 @@
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Core\bin\Debug\net8.0\TesteTecnico.Core.deps.json
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Core\bin\Debug\net8.0\TesteTecnico.Core.dll
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Core\bin\Debug\net8.0\TesteTecnico.Core.pdb
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Core\obj\Debug\net8.0\TesteTecnico.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Core\obj\Debug\net8.0\TesteTecnico.Core.AssemblyInfoInputs.cache
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Core\obj\Debug\net8.0\TesteTecnico.Core.AssemblyInfo.cs
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Core\obj\Debug\net8.0\TesteTecnico.Core.csproj.CoreCompileInputs.cache
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Core\obj\Debug\net8.0\TesteTecnico.Core.sourcelink.json
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Core\obj\Debug\net8.0\TesteTecnico.Core.dll
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Core\obj\Debug\net8.0\refint\TesteTecnico.Core.dll
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Core\obj\Debug\net8.0\TesteTecnico.Core.pdb
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Core\obj\Debug\net8.0\ref\TesteTecnico.Core.dll

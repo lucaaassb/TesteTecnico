@@ -1,0 +1,16 @@
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\bin\Debug\net8.0\TesteTecnico.Infrastructure.deps.json
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\bin\Debug\net8.0\TesteTecnico.Infrastructure.dll
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\bin\Debug\net8.0\TesteTecnico.Infrastructure.pdb
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\bin\Debug\net8.0\TesteTecnico.Core.dll
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\bin\Debug\net8.0\TesteTecnico.Core.pdb
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\obj\Debug\net8.0\TesteTecnico.Infrastructure.csproj.AssemblyReference.cache
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\obj\Debug\net8.0\TesteTecnico.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\obj\Debug\net8.0\TesteTecnico.Infrastructure.AssemblyInfoInputs.cache
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\obj\Debug\net8.0\TesteTecnico.Infrastructure.AssemblyInfo.cs
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\obj\Debug\net8.0\TesteTecnico.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\obj\Debug\net8.0\TesteTecnico.Infrastructure.sourcelink.json
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\obj\Debug\net8.0\TesteTec.FF0AFD4F.Up2Date
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\obj\Debug\net8.0\TesteTecnico.Infrastructure.dll
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\obj\Debug\net8.0\refint\TesteTecnico.Infrastructure.dll
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\obj\Debug\net8.0\TesteTecnico.Infrastructure.pdb
+D:\TesteTecnico\TesteTecnico\TesteTecnico.Infrastructure\obj\Debug\net8.0\ref\TesteTecnico.Infrastructure.dll
