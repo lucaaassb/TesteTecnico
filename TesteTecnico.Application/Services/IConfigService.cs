@@ -11,7 +11,7 @@ public class ConfigService : IConfigService
 
     public int GetValue()
     {
-        _value++; **
+        _value++; 
         
         return _value;
     }
